@@ -1,0 +1,64 @@
+body {
+    font-family: 'Outfit', sans-serif;
+}
+
+header {
+    display: flex; flex-direction: row;
+    margin: 0px;
+}
+
+.myName {
+    margin-top: 60px;
+    margin-left: 50px;
+    padding-right: 30px;
+    border-right: solid;
+}
+
+.aboutMe {
+    margin-top: 70px;
+    margin-left: 30px;
+}
+
+.name {
+    margin-top: 3px;
+    margin-bottom: 0px;
+}
+
+.surname {
+    margin-top: 0px;
+    margin-bottom: 3px;
+}
+
+.job {
+    margin-bottom: 0px;
+}
+
+.age {
+    margin-top: 0px;
+}
+
+main {
+    margin: 50px;
+}
+
+.moreAboutMeTitle {
+    margin-top: 50px;
+    margin-bottom: 0px;
+    padding-bottom: 10px;
+    border-bottom: solid;
+    margin-right: 65%;
+}
+
+.moreAboutMe {
+    margin-top: 10px;
+    margin-bottom: 0px;
+}
+
+footer {
+    display: flex; flex-direction: row;
+    margin-left: 50px;
+}
+
+.meOn {
+    margin-left: 30px;
+}
